@@ -21,12 +21,14 @@ OpenSourceQin is an open-source MMORPG project paying tribute to classic games l
 
 - **[Wiki 主页](https://github.com/liyuanqiu/osqin/wiki)**: 项目的完整文档和设计资料
 - **[游戏策划文档 (GDD)](https://github.com/liyuanqiu/osqin/wiki/GDD)**: 详细的游戏设计文档，包含游戏机制、系统设计等完整内容
+- **[GDD 专业评审报告](./doc/GDD-Critique.md)**: 从专业游戏策划师角度对 GDD 的评审和改进建议
 - **[本地文档](./doc/GDD.md)**: 也可以在仓库的 `doc/` 目录中查看 GDD
 
 For detailed game design documentation, please visit:
 
 - **[Wiki Home](https://github.com/liyuanqiu/osqin/wiki)**: Complete documentation and design materials
 - **[Game Design Document (GDD)](https://github.com/liyuanqiu/osqin/wiki/GDD)**: Detailed game design document including game mechanics, system designs, and more
+- **[Professional GDD Critique Report](./doc/GDD-Critique.md)**: Professional review and improvement recommendations for the GDD
 - **[Local Documentation](./doc/GDD.md)**: GDD is also available in the repository's `doc/` directory
 
 ## 游戏类型 (Game Genre)
